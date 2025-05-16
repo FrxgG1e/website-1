@@ -1,0 +1,57 @@
+<!--DOCTYPE html-->
+<html>
+    <head>
+<title>My First Website</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css"> <!-- Link to external CSS file -->
+        <style>
+            body {
+                background-color: #ffffff; /* Light gray background */
+                font-family: Arial, sans-serif; /* Font style */
+                color: #333; /* Text color */
+            }
+            h1, h2, h3, h4 {
+                color: #2c3e50; /* Dark blue color for headings */
+            }
+            ul {
+                list-style-type: square; /* Square bullets for lists */
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Hi, welcome to this website.</h1> <h2>My name is Phephe.</h2>
+        <h3>I am a 16 year-old kid (soon to be 17) in South Africa, and I want to be a software developer.</h3>
+        <p>yeah XDD im mostly worried bout getting accepted to any university any advice is much appreciated (on coding i mean)</p>
+           <p>I am currently learning HTML, CSS, and soon JavaScript.</p>
+           I'd learn python and C++ but I've not been botherd to.
+           Also tring to figure out how to use Github.
+           <h4>I like anime like:</h4>
+            <ul>Attack on Titan</ul>
+            <ul>Death Note</ul>
+            <ul>Tokyo Ghoul</ul>
+            <ul>Jujutsu Kaisen</ul>
+            <ul>Scissor Seven</ul>
+            <ul>Hunter x Hunter</ul>
+            <ul>Solo Leveling</ul>
+            <ul>Kaiji No. 8</ul>
+            <ul>many more..</ul>
+           <p>I also love playing games like:</p>
+           <ul>FIFA</ul>
+           <ul>Call of Duty</ul>
+           <ul>GTA 5</ul>
+           <ul>Top Eleven</ul>
+           <ul>Dream League Soccer</ul>
+           <ul>Bullet echo</ul>
+           <ul>MINECRAFT!</ul>
+           <ul>Harvest Town</ul>
+           <ul>Darkrise</ul>
+           <ul>and many many moreeeee</ul>
+           <P>I also like chess though I haven't improved in a while due to lack of practice. -_-</P>
+           <P>This site is mostly for practice. I wanna make a game! like a real game, like open world kinda like kratos or GTA V, with a good magic system similar to animes like -
+           frieren and Mushoku tensei.</P>
+           <P>But for now I'm aiming for 5 projects by the end of this year. (i still have school lol)</P>
+           oh yeah I havent set the background color yet, <em>not that i know how needs CSS i think ill need to create a new file -_-</em></p> 
+        <p> I also like to draw, but I haven't drawn in a while. I used to draw a lot of anime characters and some original characters. I also like to play the guitar, but I haven't played in a while.</p>
+    </body>
+</html>
